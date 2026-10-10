@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Yusuf%20Emre!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Geliştirici%20%7C%20Öğrenci%20%7C%20Teknoloji%20Tutkunu&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Yusuf%20Emre!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Geliştirici%20%7C%20Teknoloji%20Tutkunu&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
