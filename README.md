@@ -16,7 +16,7 @@
 - 👯 **Açık kaynaklı** projelere katkıda bulunmaya her zaman açığım.
 - 🤔 **Yeni teknolojiler** hakkında yardıma ihtiyacım olursa sorarım.
 - 💬 Bana **herhangi bir konuda** soru sorabilirsiniz.
-- 📫 Bana ulaşmak için: **[E-posta adresiniz]**
+- 📫 Bana ulaşmak için: **[yusufyazilimwebemre@gmail.com]**
 
 ---
 
